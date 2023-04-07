@@ -107,7 +107,7 @@ v has its own package manager (vpm) although its small there is some cool stuff 
 
 alongside vpm, there are builtin packages (ig, just modules builtin) that are vv cool, and typically for example there is `os`
 
-```
+```v
 module main
 
 // imports the OS module
